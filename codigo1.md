@@ -1,4 +1,5 @@
-# puga-fernandez-jorge-kaled1326-3w
+print("puga fernandez jorge kaled ")
+print(" ")
 # Definimos un diccionario que asocia divisas con sus símbolos
 divisas = {'Euro': '€', 'Dollar': '$', 'Yen': '¥'}
 
@@ -12,5 +13,6 @@ if entrada in divisas:
 else:
     # Si no está, mostramos un mensaje indicando que no se encontró
     print("La divisa no está en el diccionario.")
-    ![image](https://github.com/user-attachments/assets/36753ae0-9149-4b2b-9e50-606f87797f9e)
+  ![image](https://github.com/user-attachments/assets/142e61af-70c6-4e54-8124-493b9e0557f9)
+
 
