@@ -1,3 +1,5 @@
+print("puga fernandez jorge kaled")
+print()
 # Definir un diccionario con precios de frutas
 precios_frutas = {
     'manzana': 2.5,  # Precio por kilo
@@ -22,4 +24,5 @@ if fruta in precios_frutas:
 else:
     # Mensaje si la fruta no está en el diccionario
     print("La fruta no está en el diccionario.")
-![image](https://github.com/user-attachments/assets/84083015-562f-4653-93f8-5919954946d3)
+    ![image](https://github.com/user-attachments/assets/7359990e-455f-4d63-8fc3-445a6cb4a21a)
+
