@@ -22,4 +22,4 @@ if fruta in precios_frutas:
 else:
     # Mensaje si la fruta no está en el diccionario
     print("La fruta no está en el diccionario.")
-    ![image](https://github.com/user-attachments/assets/9caadcbe-919d-437c-a73e-ad929ea67182)
+![image](https://github.com/user-attachments/assets/84083015-562f-4653-93f8-5919954946d3)
