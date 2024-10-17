@@ -1,3 +1,5 @@
+print("puga fernandez jorge kaled")
+print(" ")
 # Crear un diccionario vacío para almacenar la información del usuario
 usuario = {}
 
@@ -12,5 +14,6 @@ print(f"{usuario['nombre']}")
 print(f"Tiene {usuario['edad']} años,")
 print(f"vive en {usuario['direccion']}")
 print(f"y su número de teléfono es {usuario['telefono']}.")
-![image](https://github.com/user-attachments/assets/cb2e6be5-7057-4bb0-9a58-8628999bc4df)
+![image](https://github.com/user-attachments/assets/941262be-25b9-477a-9d16-f61371a95601)
+
 
